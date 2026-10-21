@@ -1,0 +1,28 @@
+{
+  "name": "b25dctv014-bt9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangtrungdung2007/B25DCTV014-BT9.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hoangtrungdung2007/B25DCTV014-BT9/issues"
+  },
+  "homepage": "https://github.com/hoangtrungdung2007/B25DCTV014-BT9#readme",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.1.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "vite": "^8.3.5"
+  }
+}
